@@ -1,19 +1,7 @@
 .header{
-    background-color:goldenrod;
+    background-color:lightsteelblue;
     margin-left: 50px;
     margin-right: 50px;
     border-radius: 5px;
     padding: 10px;
-}
-.navbar{
-    display: flex;
-}
-.nav a{
-    text-decoration: none;
-    margin-right: 20px;
-    color: black;
-    font-weight: 700;
-}
-.input-field{
-    width: 300px;
 }

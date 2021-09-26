@@ -1,3 +1,15 @@
+.single-card {
+    padding: 5px;
+    transition: 0.6s;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px gray;
+  }
+.single-card:hover{
+    box-shadow: 4px 4px 7px gray;
+    border-radius: 5px;
+    background-color:mistyrose;
+}
+
 .character{
     text-align: center;
     justify-content: center;

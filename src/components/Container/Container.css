@@ -1,12 +1,41 @@
 .main-container{
     display: grid;
     grid-template-columns: 3fr 1fr;
-    background-color: lightgoldenrodyellow;
     margin-top: 20px;
+    grid-gap: 15px;
 }
 .character-container{
     border-right: 1px solid lightgray;
+    margin-right: 5px;
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    grid-gap: 10px;
+    grid-gap: 15px;
+}
+.navbar{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    background-color:lightsteelblue;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.nav a{
+    text-decoration: none;
+    margin-right: 20px;
+    color: black;
+    font-weight: 700;
+}
+.input-field input{
+    width: 75%;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.input-field button{
+    border: 2px solid royalblue;
+    border-radius: 5px;
+    width: 75px;
+    margin-left: 5px;
+    
 }

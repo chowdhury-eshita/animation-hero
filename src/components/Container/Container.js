@@ -18,20 +18,33 @@ const Container = () => {
         setList(newList);
     }
     return (
-        <div className="main-container container">
-            <div className="character-container">
-                {
-                    characters.map(character => <Character
-                        key={character.id}
-                        character={character}
-                        handleAddToList={handleAddToList}
-                    ></Character>)
-                }
+        <>
+            <div className="navbar">
+                <div className="nav">
+                    <a href="#home">Home</a>
+                    <a href="#list">Review List</a>
+                    <a href="#about">About</a>
+                </div>
+                <div className="input-field">
+                    <input type="text" placeholder="Search Character" />
+                    <button>Search</button>
+                </div>
             </div>
-            <div className="list">
-                <List list={list}></List>
+            <div className="main-container container">
+                <div className="character-container">
+                    {
+                        characters.map(character => <Character
+                            key={character.id}
+                            character={character}
+                            handleAddToList={handleAddToList}
+                        ></Character>)
+                    }
+                </div>
+                <div className="list">
+                    <List list={list}></List>
+                </div>
             </div>
-        </div>
+        </>
     );
 };
 
