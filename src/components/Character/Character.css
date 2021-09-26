@@ -5,7 +5,7 @@
     box-shadow: 5px 5px 20px gray;
   }
 .single-card:hover{
-    box-shadow: 4px 4px 7px gray;
+    box-shadow: 6px 6px 7px gray;
     border-radius: 5px;
     background-color:mistyrose;
 }
