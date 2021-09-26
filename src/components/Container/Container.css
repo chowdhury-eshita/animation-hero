@@ -1,0 +1,12 @@
+.main-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    background-color: lightgoldenrodyellow;
+    margin-top: 20px;
+}
+.character-container{
+    border-right: 1px solid lightgray;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+}

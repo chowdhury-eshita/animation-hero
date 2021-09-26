@@ -1,0 +1,10 @@
+.character{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.character img{
+width: 150px;
+height: 150px;
+}

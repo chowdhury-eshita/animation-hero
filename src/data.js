@@ -1,0 +1,23 @@
+[
+    { id: 0001, name: 'Doraemon', cartoon: 'Doraemon', trp: 14000000, creator: "Fujiko F. Fujio", img: "https://www.kindpng.com/picc/m/46-462567_another-from-our-anime-manga-series-doraemon-cartoon.png" },
+    { id: 0002, name: 'Tom', cartoon: 'Tom and Jerry', trp: 21000000, creator: " William Hanna", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4LNfzf2KkVj5UAzRzc5JURRKBGiimZWl52mz1aKKm5G_ej2DNN75zD59tqnUbKtQ2uNM&usqp=CAU" },
+    { id: 0003, name: 'Jerry', cartoon: 'Tom and Jerry', trp: 21000000, creator: " William Hanna", img: "https://library.kissclipart.com/20180902/hxq/kissclipart-tom-and-jerry-cartoon-clipart-jerry-mouse-tom-cat-353fd3fc365ee0f7.png" },
+    { id: 0004, name: 'Aladin', cartoon: 'Aladin', trp: 12000000, creator: "Ron Clements John Musker", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj5AlVUp84ZDLisoRslfWWsif4Ea_qq1UCZcaUfVTIBmHuk_gxDjNu-u1cTYzrSYDRE8c&usqp=CAU" },
+    { id: 0005, name: 'Batman', cartoon: 'Batman', trp: 4000000, creator: "Bob Kane", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe6gIBq9Ipzlvq9KdFEU8Itjv0C_XvlKLcvQ&usqp=CAU" },
+    { id: 0006, name: 'Chota Veem', cartoon: 'Chota Veem', trp: 1000000, creator: "Rajiv Chilaka", img: "https://images.newindianexpress.com/uploads/user/imagelibrary/2015/5/5/22/original/Chhota%20Bheem.jpg?w=376&dpr=2.6" },
+    { id: 0007, name: 'Dora', cartoon: 'Dora the Explorer', trp: 140000, creator: "Chris Gifford", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vVzIPmPaG5pAY_H3Av-t9fplckPrJ1SepA&usqp=CAU" },
+    { id: 0008, name: 'Elsa', cartoon: 'Frozen', trp: 33000000, creator: "Jennifer Lee, Chris Buck", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5sXNYzr75hw21mEvZJsXqNiRBQQl0KYuniA&usqp=CAU" },
+    { id: 0009, name: 'Fred Flintstone', cartoon: 'Flintstone', trp: 70000, creator: "Joseph Barbera, William Hanna", img: "https://www.syfy.com/sites/syfy/files/styles/1170xauto/public/toy-qube-fred-flintstone.jpg" },
+    { id: 00010, name: 'Goofy', cartoon: 'Goofy', trp: 15000000, creator: "Art Babbit", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQECO9DEYM5rM8JM_29QeJs5OJU1NO8Nnxz4RTy2f-jz7hksyC1MHj34Tim9ZHCdpzvTcg&usqp=CAU" },
+    { id: 00011, name: 'Hattori', cartoon: 'Ninja Hattori', trp: 22000000, creator: "Fujiko Fujio", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFI1t566c6NNJTE-IRRicOTvgQSqU1PyIoJMxEhwPGcVkdIS5FRVDm-y-3CRi77b4Hu4&usqp=CAU" },
+    { id: 00012, name: 'Mickey Mouse', cartoon: 'Mickey Mouse', trp: 27000000, creator: "Walt Disney", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26jQBJwg_1dTYsnLIXlXCbJMZbBBtPsvUBg&usqp=CAU" },
+    { id: 00013, name: 'Nobita', cartoon: 'Doraemon', trp: 14000000, creator: "Fujiko F. Fujio", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpZ6mE_hPJ-DLeKb6_je1v-7YcgRvmdnHCaA&usqp=CAU" },
+    { id: 00014, name: 'Pikachu', cartoon: 'Pokeymon', trp: 19000000, creator: "Atsuko Nishida", img: "" },
+    { id: 00015, name: 'Oggy', cartoon: 'Oggy and the cokroches', trp: 32000000, creator: "Jean-Yves Raimbaud", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZxwqyaquF7vY66u28y0MLNedhzCAXi-xPxpswAZfvhZGeOZyFW5DfA4RJcEa1kILcANA&usqp=CAU" },
+    { id: 00016, name: 'Cinderella', cartoon: 'Cinderella', trp: 44000000, creator: "Charles Perrault", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsW70hqd580gGdyRiQ7ENYl3iADFTykMarBw&usqp=CAU" },
+    { id: 00017, name: 'Belle', cartoon: 'Belle', trp: 15000000, creator: "David Belle", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG2clRluHWAxi1k5qaI2eWtLIXDnlmKm3YBA&usqp=CAU" },
+    { id: 00018, name: 'Ariel', cartoon: 'The little Marmide', trp: 10000000, creator: "Jim Henson", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStSgEW4NkV6r1ZZE1oGHwjhpyuNshK_KglSQ&usqp=CAU" },
+    { id: 00019, name: 'Rupanzel', cartoon: 'Tangled', trp: 90000000, creator: "Glen Keane", img: "http://images6.fanpop.com/image/photos/35300000/Rapunzel-princess-rapunzel-from-tangled-35302507-794-1080.jpg" },
+    { id: 00020, name: 'Woody', cartoon: 'Sheriff Woody', trp: 2000000, creator: "Walter Benjamin Lantz", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGSbSP2UwMWgLuRH4UnzIsbIXbWsufb3mnkNZfab3-pv8g-K9KBzQC5IPb5dOobn7LMi8&usqp=CAU" },
+    { id: 00021, name: 'Merida', cartoon: 'Brave', trp: 7000000, creator: "	Brenda Chapman", img: "http://2.bp.blogspot.com/-OKrykzuEXXI/VVDNWHRH8CI/AAAAAAAADpM/9lCFGjzyHJY/s1600/Brave_Merida_Icon.jpg" }
+]
